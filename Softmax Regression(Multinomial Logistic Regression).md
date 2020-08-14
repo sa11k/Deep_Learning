@@ -25,8 +25,7 @@
 
 ## Cross-entropy Cost function
 - 하나의 training set에 대한 Cross-entropy cost function<br>
-![31](https://user-images.githubusercontent.com/63536606/
-90271593-04317700-de97-11ea-93b9-4430dcf7c0a0.PNG)<br>
+![31](https://user-images.githubusercontent.com/63536606/90272158-edd7eb00-de97-11ea-8738-6c5ab8790e18.PNG)<br>
 ![32](https://user-images.githubusercontent.com/63536606/90271712-30e58e80-de97-11ea-8ff0-29f97e7218c1.PNG)
 - 여러 개의 training set에 대한 Cross-entropy cost function<br>
 ![33](https://user-images.githubusercontent.com/63536606/90271817-5ecad300-de97-11ea-8b4b-abe3bac03267.PNG)
