@@ -18,6 +18,7 @@
 
 ## Cost function
 - H(x) - y = 가설 값 - 실제 값
-- $$ \(H(x)-y)^2 $$ : 차이가 음수 / 양수 상관 없음
-- $$ \{(H(x_1)-y_1)^2 + (H(x_2)-y_2)^2 + (H(x_3)-y_3)^2} / 3 $$
-- cost = 1/m*
+- ![7](https://user-images.githubusercontent.com/63536606/90260711-db08ea80-de86-11ea-916e-288ebf9aa43a.PNG) : 차이가 음수 / 양수 상관 없음
+-![8](https://user-images.githubusercontent.com/63536606/90260822-0b508900-de87-11ea-972f-3ddde2659f49.PNG)
+- ![9](https://user-images.githubusercontent.com/63536606/90260882-24f1d080-de87-11ea-9c69-d7a70ad96dc3.PNG) : m은 데이터 개수
+- ![10](https://user-images.githubusercontent.com/63536606/90261081-6b472f80-de87-11ea-98a7-956591b8f510.PNG) : 이 값을 가장 작게하는 W, b 값을 찾아야 함 -> 이것을 찾는 것이 Linear Regression의 학습
