@@ -6,7 +6,7 @@
 3. Linear Regression cost 함수 최소화 **[[summary](https://github.com/sa11k/Deep_Learning/blob/master/Linear%20Regression%20cost%20%ED%95%A8%EC%88%98%20%EC%B5%9C%EC%86%8C%ED%99%94.md)]**
 4. 여러 개의 입력(feature)의 Linear Regression **[[summary](https://github.com/sa11k/Deep_Learning/blob/master/%EC%97%AC%EB%9F%AC%20%EA%B0%9C%EC%9D%98%20%EC%9E%85%EB%A0%A5(feature)%EC%9D%98%20Linear%20Regression.md)]**
 5. Logistic(Regression) Classification **[[summary](https://github.com/sa11k/Deep_Learning/blob/master/Logistic(Regression)%20Classification.md)]**
-6. Softmax Regression(Multinomial Logistic Regression) **[[summary]()]**
+6. Softmax Regression(Multinomial Logistic Regression) **[[summary](https://github.com/sa11k/Deep_Learning/blob/master/Softmax%20Regression(Multinomial%20Logistic%20Regression).md)]**
 7. ML의 실용과 몇 가지 팁 **[[summary]()]**
 8. 딥러닝의 기본 개념과 문제, 그리고 해결 **[[summary]()]**
 9. Neural Network 1: XOR 문제와 학습방법, Backpropagation (1986 breakthrough) **[[summary]()]**
