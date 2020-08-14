@@ -1,8 +1,8 @@
 # 모두를 위한 머신러닝 / 딥러닝 강의 - 김성훈 교수님
 
 ## 딥러닝의 기본
-1. 머신러닝의 개념과 용어 **[[summary]()]**
-2. Linear Regression의 개념 **[[summary]()]**
+1. 머신러닝의 개념과 용어 **[[summary](https://github.com/sa11k/Deep_Learning/blob/master/%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D%EC%9D%98%20%EA%B0%9C%EB%85%90%EA%B3%BC%20%EC%9A%A9%EC%96%B4.md)]**
+2. Linear Regression의 개념 **[[summary](https://github.com/sa11k/Deep_Learning/blob/master/Linear%20Regression%EC%9D%98%20%EA%B0%9C%EB%85%90.md)]**
 3. Linear Regression cost 함수 최소화 **[[summary]()]**
 4. 여러 개의 입력(feature)의 Linear Regression **[[summary]()]**
 5. Logistic(Regression) Classification **[[summary]()]**
