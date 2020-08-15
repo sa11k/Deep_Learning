@@ -30,7 +30,7 @@
 
 ## Regularization
 - W(weight)가 너무 큰 값들을 갖지 않도록 하는 것
-- 모델의 복잡도를 낮추기 위한 방법
+- 모델의 복잡도를 낮추기 위한 방법<br>
 ![37](https://user-images.githubusercontent.com/63536606/90310025-a2215200-df28-11ea-9069-e887d0cfc71b.PNG)<br>
 - cost 함수가 틀렸을 때 높은 비용이 발생할 수 있도록 penalty를 부과하는 것처럼 W에 대한 값이 클 경우 penalty 부여
 
