@@ -1,0 +1,1 @@
+# Neural Network 1: XOR 문제와 학습방법, Backpropagation (1986 breakthrough)
