@@ -12,4 +12,4 @@
 9. Neural Network 1: XOR 문제와 학습방법, Backpropagation (1986 breakthrough) **[[summary](https://github.com/sa11k/Deep_Learning/blob/master/Neural%20Network%201%20-%20XOR%20%EB%AC%B8%EC%A0%9C%EC%99%80%20%ED%95%99%EC%8A%B5%EB%B0%A9%EB%B2%95%2C%20Backpropagation%20(1986%20breakthrough).md)]**
 10. Neural Network 2: ReLU and 초기값 정하기 (2006/2007 breakthrough) **[[summary](https://github.com/sa11k/Deep_Learning/blob/master/Neural%20Network%202%20-%20ReLU%20and%20%EC%B4%88%EA%B8%B0%EA%B0%92%20%EC%A0%95%ED%95%98%EA%B8%B0%20(2006%2C2007%20breakthrough).md)]**
 11. Convolutional Neural Networks **[[summary](https://github.com/sa11k/Deep_Learning/blob/master/Convolutional%20Neural%20Networks.md)]**
-12. Recurrent Neural Network **[[summary]()]**
+12. Recurrent Neural Network **[[summary](https://github.com/sa11k/Deep_Learning/blob/master/Recurrent%20Neural%20Network.md)]**
