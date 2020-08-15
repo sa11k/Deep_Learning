@@ -1,11 +1,11 @@
 # ML의 실용과 몇 가지 팁
 
 ## Learning rate
-1. Large learning rate : overshooting
+1. Large learning rate : overshooting<br>
 ![35](https://user-images.githubusercontent.com/63536606/90309710-d1828f80-df25-11ea-874a-925d1e22acb1.PNG)<br>
 : learning rate가 너무 클 경우에는 경사면을 타고 튕겨져 올라가다가 결국에는 밥그릇을 탈출하는 overshooting 현상이 발생함. 
 
-2. Small learning rate 
+2. Small learning rate <br>
 ![36](https://user-images.githubusercontent.com/63536606/90309745-28886480-df26-11ea-8795-118a816c7961.PNG)<br>
 : learning rate가 너무 작은 경우에는 한참을 내려갔음에도 불구하고 최저점까지 도달하지 못하는 현상이 발생함.
 
