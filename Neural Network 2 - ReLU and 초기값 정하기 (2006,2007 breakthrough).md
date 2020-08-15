@@ -1,0 +1,1 @@
+# Neural Network 2: ReLU and 초기값 정하기 (2006/2007 breakthrough)
